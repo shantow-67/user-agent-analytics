@@ -25,7 +25,7 @@ The following endpoints are available in this service:
 ## Live Demo
 
 The application is deployed on Render:  
-🔗 [User Agent Analytics Dashboard](https://user-agent-analytics.onrender.com/api/user/analytics/dashboard)
+🔗 [User Agent Analytics Dashboard](https://user-agent-analytics.onrender.com/api/user/analytics)
 
 ## Installation
 
